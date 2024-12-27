@@ -1,6 +1,7 @@
 # Facebook Microservice Backend
 
 This project is a backend service for a Facebook-like application, built using various modern technologies and architectural patterns.
+## Link to Front-end: [Click here](https://github.com/BT2701/facebook-frontend)
 
 ## Project Members
 - **3121410470**: [Tran Trung Thien](https://github.com/thientranreal)
